@@ -1,0 +1,78 @@
+Processes: 32 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 1
+Train Epoch: 1 Loss: 1533.5760 Time Elapsed: 52.0s
+Train Epoch: 2 Loss: 1469.8112 Time Elapsed: 49.3s
+Train Epoch: 3 Loss: 1432.0225 Time Elapsed: 49.1s
+Train Epoch: 4 Loss: 1372.4800 Time Elapsed: 48.8s
+Train Epoch: 5 Loss: 1358.9583 Time Elapsed: 48.7s
+Train Epoch: 6 Loss: 1380.0073 Time Elapsed: 48.7s
+Train Epoch: 7 Loss: 1352.1823 Time Elapsed: 48.5s
+Train Epoch: 8 Loss: 1443.6812 Time Elapsed: 48.3s
+Train Epoch: 9 Loss: 1244.0454 Time Elapsed: 48.3s
+Train Epoch: 10 Loss: 1275.0597 Time Elapsed: 48.4s
+
+Test set: Average loss: 1.1519 | Accuracy: 0.627
+Processes: 32 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 2
+Train Epoch: 1 Loss: 1521.4377 Time Elapsed: 50.7s
+Train Epoch: 2 Loss: 1426.1450 Time Elapsed: 48.7s
+Train Epoch: 3 Loss: 1409.3495 Time Elapsed: 48.4s
+Train Epoch: 4 Loss: 1401.1044 Time Elapsed: 48.3s
+Train Epoch: 5 Loss: 1288.5782 Time Elapsed: 48.1s
+Train Epoch: 6 Loss: 1393.3497 Time Elapsed: 48.1s
+Train Epoch: 7 Loss: 1393.9581 Time Elapsed: 48.0s
+Train Epoch: 8 Loss: 1348.2133 Time Elapsed: 47.9s
+Train Epoch: 9 Loss: 1304.8210 Time Elapsed: 48.3s
+Train Epoch: 10 Loss: 1299.1813 Time Elapsed: 47.7s
+
+Test set: Average loss: 1.2232 | Accuracy: 0.586
+Processes: 32 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 4
+Train Epoch: 1 Loss: 1596.0980 Time Elapsed: 51.1s
+Train Epoch: 2 Loss: 1021.0402 Time Elapsed: 48.0s
+Train Epoch: 3 Loss: 965.0577 Time Elapsed: 47.9s
+Train Epoch: 4 Loss: 856.8216 Time Elapsed: 53.3s
+Train Epoch: 5 Loss: 292.0486 Time Elapsed: 63.6s
+Train Epoch: 6 Loss: 205.7425 Time Elapsed: 82.5s
+Train Epoch: 7 Loss: 76.7519 Time Elapsed: 73.5s
+Train Epoch: 8 Loss: 23.5557 Time Elapsed: 69.7s
+Train Epoch: 9 Loss: 4.9612 Time Elapsed: 72.2s
+Train Epoch: 10 Loss: 22.7201 Time Elapsed: 84.7s
+
+Test set: Average loss: 80.4253 | Accuracy: 0.000
+Processes: 32 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 8
+Train Epoch: 1 Loss: 1280.0295 Time Elapsed: 58.7s
+Train Epoch: 2 Loss: 556.5443 Time Elapsed: 70.0s
+Train Epoch: 3 Loss: 1047.5619 Time Elapsed: 83.1s
+Train Epoch: 4 Loss: 1243.5599 Time Elapsed: 71.0s
+Train Epoch: 5 Loss: 1036.6454 Time Elapsed: 69.5s
+Train Epoch: 6 Loss: 913.6810 Time Elapsed: 75.3s
+Train Epoch: 7 Loss: 420.7687 Time Elapsed: 79.8s
+Train Epoch: 8 Loss: 280.8611 Time Elapsed: 97.6s
+Train Epoch: 9 Loss: 330.5690 Time Elapsed: 98.3s
+Train Epoch: 10 Loss: 177.5754 Time Elapsed: 93.6s
+
+Test set: Average loss: 39.9106 | Accuracy: 0.000
+Processes: 32 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 16
+Train Epoch: 1 Loss: 1066.5880 Time Elapsed: 59.6s
+Train Epoch: 2 Loss: 578.4130 Time Elapsed: 79.7s
+Train Epoch: 3 Loss: 1040.8676 Time Elapsed: 73.7s
+Train Epoch: 4 Loss: 903.7993 Time Elapsed: 70.9s
+Train Epoch: 5 Loss: 1123.5909 Time Elapsed: 82.1s
+Train Epoch: 6 Loss: 1330.6938 Time Elapsed: 85.8s
+Train Epoch: 7 Loss: 1064.1001 Time Elapsed: 96.8s
+Train Epoch: 8 Loss: 955.0189 Time Elapsed: 99.0s
+Train Epoch: 9 Loss: 843.6956 Time Elapsed: 98.5s
+Train Epoch: 10 Loss: 782.8431 Time Elapsed: 104.9s
+
+Test set: Average loss: 5.7809 | Accuracy: 0.008
+Processes: 32 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 32
+Train Epoch: 1 Loss: 832.6251 Time Elapsed: 61.4s
+Train Epoch: 2 Loss: 912.4210 Time Elapsed: 80.4s
+Train Epoch: 3 Loss: 1416.3450 Time Elapsed: 70.3s
+Train Epoch: 4 Loss: 1405.8303 Time Elapsed: 76.9s
+Train Epoch: 5 Loss: 1466.6592 Time Elapsed: 89.6s
+Train Epoch: 6 Loss: 1382.8063 Time Elapsed: 87.6s
+Train Epoch: 7 Loss: 1421.6760 Time Elapsed: 98.8s
+Train Epoch: 8 Loss: 1352.0602 Time Elapsed: 102.5s
+Train Epoch: 9 Loss: 1356.1980 Time Elapsed: 104.7s
+Train Epoch: 10 Loss: 1249.0402 Time Elapsed: 109.5s
+
+Test set: Average loss: 9.8627 | Accuracy: 0.000

@@ -1,0 +1,43 @@
+### WRITEUP
+
+## Instructions to setup conda environment FOR PYTHON MODEL CREATION
+
+conda create --name project python=3.8.2
+conda activate project
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+
+Instructions to make/run C++ libtorch Code:
+
+$ git pull
+$ module load CMake/3.9.1
+$ cd team20/implementation
+$ wget https://download.pytorch.org/libtorch/nightly/cpu/libtorch-shared-with-deps-latest.zip
+$ unzip libtorch-shared-with-deps-latest.zip
+$ cd sequential/build
+$ cmake -DCMAKE_PREFIX_PATH=$HOME/team20/implementation/libtorch ..
+$ make
+$ ./sequential ../resnet.pt
+
+should return ok!
+
+## Instructions to run MNIST example code 
+
+1. cd team20/implementation/example_mnist/mnist/build
+1(a) add PAPI_PREFIX=$SHARED_DATA/local
+2. cmake -DCMAKE_PREFIX_PATH="$HOME/team20/implementation/libtorch;$SHARED_DATA/local" ..
+3. make
+4. add into cmakecache.txt:
+
+ //Flags used by the compiler during all build types.
+CMAKE_CXX_FLAGS:STRING = -fopenmp -O0
+
+(4a. if you are on aws, change
+
+ CMAKE_CXX_COMPILER:STRING=/usr/lib64/openmpi/bin/mpic++)
+
+on line 39
+4. for debugging, run ./mnist {nMat} {szMat} {nTHREADS} 0
+
+5. to test full code, run `OMP_NUM_THREADS={nThreads} mpirun -np {nProc} ./mnist {nMat} {szMat} {nThreads} 1
+
+Note that data will be stored in the build/data directory.

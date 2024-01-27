@@ -1,0 +1,38 @@
+
+Processes: 1 Epochs: 1 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.000000
+
+Train Epoch: 1 Loss: 1406.4161 Time Elapsed: 1238.8s
+Average time to generate adversary: 1.284544
+Average time to train: 0.035423
+
+Test set: Average loss: 1.3145 | Accuracy: 0.570
+
+Processes: 2 Epochs: 1 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 1
+
+Train Epoch: 1 Loss: 1409.5239 Time Elapsed: 1206.0s
+
+Test set: Average loss: 1.3797 | Accuracy: 0.576
+
+Processes: 4 Epochs: 1 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 1
+
+Train Epoch: 1 Loss: 1421.3752 Time Elapsed: 426.7s
+
+Test set: Average loss: 1.3129 | Accuracy: 0.585
+
+Processes: 8 Epochs: 1 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 1
+
+Train Epoch: 1 Loss: 1431.2710 Time Elapsed: 186.1s
+
+Test set: Average loss: 1.3698 | Accuracy: 0.553
+
+Processes: 16 Epochs: 1 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 1
+
+Train Epoch: 1 Loss: 1441.5325 Time Elapsed: 91.6s
+
+Test set: Average loss: 1.9334 | Accuracy: 0.396
+
+Processes: 32 Epochs: 1 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.0 ReceiveInterval: 1
+
+Train Epoch: 1 Loss: 1488.5504 Time Elapsed: 50.9s
+
+Test set: Average loss: 3.0801 | Accuracy: 0.112

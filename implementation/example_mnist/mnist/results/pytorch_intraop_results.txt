@@ -1,0 +1,231 @@
+Processes: 1 Epochs: 10 AdvSteps: 1 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 356.3109 Time Elapsed: 11.3s
+Average time to generate adversary: 0.006479
+Average time to train: 0.004845
+Train Epoch: 2 Loss: 136.9721 Time Elapsed: 11.1s
+Average time to generate adversary: 0.006485
+Average time to train: 0.004665
+Train Epoch: 3 Loss: 107.5481 Time Elapsed: 11.0s
+Average time to generate adversary: 0.006451
+Average time to train: 0.004622
+Train Epoch: 4 Loss: 90.9135 Time Elapsed: 11.1s
+Average time to generate adversary: 0.006522
+Average time to train: 0.004641
+Train Epoch: 5 Loss: 80.4527 Time Elapsed: 11.1s
+Average time to generate adversary: 0.006524
+Average time to train: 0.004629
+Train Epoch: 6 Loss: 72.5901 Time Elapsed: 10.9s
+Average time to generate adversary: 0.006359
+Average time to train: 0.004589
+Train Epoch: 7 Loss: 66.8720 Time Elapsed: 11.1s
+Average time to generate adversary: 0.006488
+Average time to train: 0.004629
+Train Epoch: 8 Loss: 62.0189 Time Elapsed: 11.0s
+Average time to generate adversary: 0.006412
+Average time to train: 0.004596
+Train Epoch: 9 Loss: 58.2212 Time Elapsed: 11.2s
+Average time to generate adversary: 0.006586
+Average time to train: 0.004644
+Train Epoch: 10 Loss: 54.8802 Time Elapsed: 11.2s
+Average time to generate adversary: 0.006569
+Average time to train: 0.004655
+
+Test set: Average loss: 69.5707 | Accuracy: 0.000
+Processes: 1 Epochs: 10 AdvSteps: 2 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 420.6223 Time Elapsed: 16.9s
+Average time to generate adversary: 0.012761
+Average time to train: 0.004623
+Train Epoch: 2 Loss: 191.2293 Time Elapsed: 16.9s
+Average time to generate adversary: 0.012788
+Average time to train: 0.004509
+Train Epoch: 3 Loss: 156.8795 Time Elapsed: 17.2s
+Average time to generate adversary: 0.013060
+Average time to train: 0.004594
+Train Epoch: 4 Loss: 137.1151 Time Elapsed: 16.9s
+Average time to generate adversary: 0.012827
+Average time to train: 0.004526
+Train Epoch: 5 Loss: 124.1999 Time Elapsed: 16.9s
+Average time to generate adversary: 0.012839
+Average time to train: 0.004530
+Train Epoch: 6 Loss: 115.2630 Time Elapsed: 16.9s
+Average time to generate adversary: 0.012825
+Average time to train: 0.004466
+Train Epoch: 7 Loss: 107.9299 Time Elapsed: 17.0s
+Average time to generate adversary: 0.012890
+Average time to train: 0.004505
+Train Epoch: 8 Loss: 101.0012 Time Elapsed: 16.9s
+Average time to generate adversary: 0.012842
+Average time to train: 0.004513
+Train Epoch: 9 Loss: 96.2806 Time Elapsed: 17.0s
+Average time to generate adversary: 0.012859
+Average time to train: 0.004547
+Train Epoch: 10 Loss: 92.7864 Time Elapsed: 17.0s
+Average time to generate adversary: 0.012921
+Average time to train: 0.004546
+
+Test set: Average loss: 43.9154 | Accuracy: 0.000
+Processes: 1 Epochs: 10 AdvSteps: 4 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 543.4694 Time Elapsed: 28.2s
+Average time to generate adversary: 0.024639
+Average time to train: 0.004702
+Train Epoch: 2 Loss: 301.6945 Time Elapsed: 28.4s
+Average time to generate adversary: 0.024978
+Average time to train: 0.004675
+Train Epoch: 3 Loss: 255.7810 Time Elapsed: 28.4s
+Average time to generate adversary: 0.024935
+Average time to train: 0.004617
+Train Epoch: 4 Loss: 228.0640 Time Elapsed: 28.3s
+Average time to generate adversary: 0.024834
+Average time to train: 0.004620
+Train Epoch: 5 Loss: 210.9119 Time Elapsed: 28.2s
+Average time to generate adversary: 0.024741
+Average time to train: 0.004623
+Train Epoch: 6 Loss: 198.1116 Time Elapsed: 28.3s
+Average time to generate adversary: 0.024779
+Average time to train: 0.004651
+Train Epoch: 7 Loss: 189.0865 Time Elapsed: 28.3s
+Average time to generate adversary: 0.024823
+Average time to train: 0.004620
+Train Epoch: 8 Loss: 179.4230 Time Elapsed: 28.4s
+Average time to generate adversary: 0.024903
+Average time to train: 0.004644
+Train Epoch: 9 Loss: 172.6767 Time Elapsed: 28.4s
+Average time to generate adversary: 0.024852
+Average time to train: 0.004692
+Train Epoch: 10 Loss: 167.4922 Time Elapsed: 28.3s
+Average time to generate adversary: 0.024844
+Average time to train: 0.004659
+
+Test set: Average loss: 25.3153 | Accuracy: 0.000
+Processes: 1 Epochs: 10 AdvSteps: 8 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 766.4883 Time Elapsed: 50.6s
+Average time to generate adversary: 0.048558
+Average time to train: 0.004700
+Train Epoch: 2 Loss: 495.1975 Time Elapsed: 50.5s
+Average time to generate adversary: 0.048558
+Average time to train: 0.004590
+Train Epoch: 3 Loss: 424.8011 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048634
+Average time to train: 0.004718
+Train Epoch: 4 Loss: 384.3646 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048629
+Average time to train: 0.004729
+Train Epoch: 5 Loss: 356.5313 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048687
+Average time to train: 0.004712
+Train Epoch: 6 Loss: 336.3000 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048617
+Average time to train: 0.004727
+Train Epoch: 7 Loss: 321.8574 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048626
+Average time to train: 0.004701
+Train Epoch: 8 Loss: 309.6193 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048635
+Average time to train: 0.004712
+Train Epoch: 9 Loss: 299.2539 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048621
+Average time to train: 0.004694
+Train Epoch: 10 Loss: 292.4784 Time Elapsed: 50.7s
+Average time to generate adversary: 0.048677
+Average time to train: 0.004719
+
+Test set: Average loss: 13.2132 | Accuracy: 0.002
+Processes: 1 Epochs: 10 AdvSteps: 16 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 1110.4131 Time Elapsed: 98.9s
+Average time to generate adversary: 0.100098
+Average time to train: 0.004684
+Train Epoch: 2 Loss: 796.2147 Time Elapsed: 98.6s
+Average time to generate adversary: 0.099840
+Average time to train: 0.004619
+Train Epoch: 3 Loss: 700.1354 Time Elapsed: 99.6s
+Average time to generate adversary: 0.100822
+Average time to train: 0.004637
+Train Epoch: 4 Loss: 643.9259 Time Elapsed: 100.1s
+Average time to generate adversary: 0.101373
+Average time to train: 0.004643
+Train Epoch: 5 Loss: 610.0996 Time Elapsed: 101.2s
+Average time to generate adversary: 0.102545
+Average time to train: 0.004647
+Train Epoch: 6 Loss: 581.4391 Time Elapsed: 102.0s
+Average time to generate adversary: 0.103341
+Average time to train: 0.004666
+Train Epoch: 7 Loss: 559.8546 Time Elapsed: 101.6s
+Average time to generate adversary: 0.102920
+Average time to train: 0.004645
+Train Epoch: 8 Loss: 541.4999 Time Elapsed: 102.0s
+Average time to generate adversary: 0.103359
+Average time to train: 0.004654
+Train Epoch: 9 Loss: 525.8585 Time Elapsed: 101.6s
+Average time to generate adversary: 0.102923
+Average time to train: 0.004650
+Train Epoch: 10 Loss: 510.6777 Time Elapsed: 102.5s
+Average time to generate adversary: 0.103957
+Average time to train: 0.004645
+
+Test set: Average loss: 4.8576 | Accuracy: 0.113
+Processes: 1 Epochs: 10 AdvSteps: 32 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 1403.9055 Time Elapsed: 203.1s
+Average time to generate adversary: 0.210958
+Average time to train: 0.004903
+Train Epoch: 2 Loss: 1183.7800 Time Elapsed: 200.4s
+Average time to generate adversary: 0.208244
+Average time to train: 0.004696
+Train Epoch: 3 Loss: 1129.6823 Time Elapsed: 193.7s
+Average time to generate adversary: 0.201074
+Average time to train: 0.004720
+Train Epoch: 4 Loss: 1098.7894 Time Elapsed: 193.9s
+Average time to generate adversary: 0.201337
+Average time to train: 0.004716
+Train Epoch: 5 Loss: 1083.0416 Time Elapsed: 196.6s
+Average time to generate adversary: 0.204220
+Average time to train: 0.004726
+Train Epoch: 6 Loss: 1083.7814 Time Elapsed: 196.5s
+Average time to generate adversary: 0.204045
+Average time to train: 0.004737
+Train Epoch: 7 Loss: 1093.1598 Time Elapsed: 199.6s
+Average time to generate adversary: 0.207344
+Average time to train: 0.004721
+Train Epoch: 8 Loss: 1106.0278 Time Elapsed: 197.4s
+Average time to generate adversary: 0.205071
+Average time to train: 0.004722
+Train Epoch: 9 Loss: 1085.6597 Time Elapsed: 197.7s
+Average time to generate adversary: 0.205370
+Average time to train: 0.004735
+Train Epoch: 10 Loss: 1069.5193 Time Elapsed: 197.7s
+Average time to generate adversary: 0.205374
+Average time to train: 0.004714
+
+Test set: Average loss: 1.4505 | Accuracy: 0.529
+Processes: 1 Epochs: 10 AdvSteps: 64 TestAdvSteps: 32 StepSize: 1.000000
+Train Epoch: 1 Loss: 1540.0201 Time Elapsed: 388.5s
+Average time to generate adversary: 0.408520
+Average time to train: 0.004900
+Train Epoch: 2 Loss: 1412.8981 Time Elapsed: 394.2s
+Average time to generate adversary: 0.414729
+Average time to train: 0.004832
+Train Epoch: 3 Loss: 1464.6897 Time Elapsed: 394.6s
+Average time to generate adversary: 0.415047
+Average time to train: 0.004850
+Train Epoch: 4 Loss: 1551.6622 Time Elapsed: 395.6s
+Average time to generate adversary: 0.416135
+Average time to train: 0.004835
+Train Epoch: 5 Loss: 1548.5715 Time Elapsed: 396.9s
+Average time to generate adversary: 0.417539
+Average time to train: 0.004882
+Train Epoch: 6 Loss: 1500.9067 Time Elapsed: 394.7s
+Average time to generate adversary: 0.415262
+Average time to train: 0.004825
+Train Epoch: 7 Loss: 1474.5894 Time Elapsed: 394.7s
+Average time to generate adversary: 0.415150
+Average time to train: 0.004851
+Train Epoch: 8 Loss: 1454.3876 Time Elapsed: 396.6s
+Average time to generate adversary: 0.417216
+Average time to train: 0.004845
+Train Epoch: 9 Loss: 1442.7031 Time Elapsed: 390.8s
+Average time to generate adversary: 0.411064
+Average time to train: 0.004829
+Train Epoch: 10 Loss: 1431.2964 Time Elapsed: 394.5s
+Average time to generate adversary: 0.415022
+Average time to train: 0.004850
+
+Test set: Average loss: 0.6776 | Accuracy: 0.815
